@@ -62,14 +62,13 @@ footer img{
     margin: 20px;
 }
 .catalog {
-    width: 870px;
-    height: 700px; 
+    height: 1000px; 
     background-color: rgb(235, 198, 198);
 }
 
 .product {
     float: left;
-    width: 150px;
+    width: 500px;
     text-align: center;
     padding: 10px;
     border: 5px double orange;
